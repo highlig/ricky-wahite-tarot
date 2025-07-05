@@ -1,0 +1,40 @@
+{
+  "the_fool": {
+    "name": "The Fool",
+    "number": 0,
+    "image_url": "https://highlig.github.io/ricky-wahite-tarot/images/00-the-fool.png",
+    "keywords": [
+      "Beginnings",
+      "Innocence",
+      "Curiosity",
+      "Spontaneity",
+      "Potential"
+    ],
+    "description": "A new journey begins with instinct, not information. Drawn by wonder that overcomes fear. Trust rises before certainty and opens the gate to both freedom and folly.",
+    "visual_description": "The Fool stands on the precipice of a cliff, caught in the first breath of a journey...",
+    "general_meaning": "The Fool represents beginnings\u2014the sacred first step into the unknown...",
+    "love": "In love readings, The Fool often signals new beginnings\u2014a budding relationship...",
+    "spiritual": "The Fool is the archetypal pilgrim\u2014not a teacher or master, but the one who walks...",
+    "career": "The Fool in career readings can indicate a new opportunity, project, or path...",
+    "reversed": "Reversed, The Fool suggests hesitation, recklessness, or naivety..."
+  },
+  "the_magician": {
+    "name": "The Magician",
+    "number": 1,
+    "image_url": "https://highlig.github.io/ricky-wahite-tarot/images/01-the-magician.png",
+    "keywords": [
+      "Manifestation",
+      "Creation",
+      "Skill",
+      "Confidence",
+      "Intent"
+    ],
+    "description": "With one hand to the sky and one to the earth, he channels energy from spirit into matter...",
+    "visual_description": "The Magician stands poised between worlds. One arm reaches upward...",
+    "general_meaning": "The Magician is a card of manifestation, action, and alignment...",
+    "love": "In love, the Magician signals charisma, attraction, and intentional connection...",
+    "spiritual": "Spiritually, the Magician is the first conscious awakening of power...",
+    "career": "In career readings, the Magician signals a green light for action...",
+    "reversed": "Reversed, the Magician warns of manipulation, misalignment, or lost potential..."
+  }
+}
