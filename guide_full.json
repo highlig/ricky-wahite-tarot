@@ -112,17 +112,20 @@
   "reversed": "Reversed, The Lovers points to conflict, indecision, or misalignment. A relationship may be strained, a commitment faltering, or a tempting shortcut undermining long-term integrity.\n\nIt may also signal a failure to choose—drifting instead of engaging. Reconnect with your values. Ask honestly: What are you truly drawn to? And are you willing to show up for it?"
 },
   "the_chariot": {
-    "name": "The Chariot",
-    "number": 7,
-    "image_url": "https://highlig.github.io/ricky-wahite-tarot/images/07-the-chariot.png",
-    "keywords": [],
-    "description": "Progress comes by focusing opposing forces toward a single aim. Control is not suppression, but steady guidance fueled by clarity and commitment.",
-    "visual_description": "",
-    "general_meaning": "",
-    "love": "",
-    "spiritual": "",
-    "career": "",
-    "reversed": ""
+  "name": "The Chariot",
+  "number": 7,
+  "image_url": "https://highlig.github.io/ricky-wahite-tarot/images/07-the-chariot.png",
+  "keywords": {
+    "upright": ["Willpower", "Determination", "Victory", "Control", "Direction"],
+    "reversed": ["Lack of direction", "Aggression", "Defeat", "Internal conflict", "Misalignment"]
+  },
+  "description": "A willful heart moves not through force, but through focus. The Chariot does not yield to pressure—it shapes its own road.",
+  "visual_description": "The Chariot features Arden, seated with quiet authority in a regal war chariot adorned with emblems of the willow tree—a symbol of rooted grace, adaptability, and emotional resilience. Her armored attire draws from her Whiteout Survival avatar: padded, practical, and unmistakably suited for command. A golden star crowns her helmet, and oversized goggles rest above her brow, combining utilitarian readiness with understated flair. Her expression is composed and forward-facing—unmoved by noise, driven by intent.\n\nTo either side of the chariot sit two ceremonial dogs. On the left, a white English bulldog wears a Manchester City scarf, marking Arden’s proud Manchesterian identity with understated loyalty and grit. On the right, a black French bulldog wears a tricolor sash in homage to her Alpine roots. These animals take the place of traditional sphinxes—not as oppositional forces, but as harmonized symbols of dual belonging. They are seated, calm, and dignified, offering presence rather than propulsion.\n\nThe background blends two homelands. On the left rises the unmistakable silhouette of the Etihad Stadium, rendered as a softly shaded cathedral of sport, silent and library-like in appearance, symbolizing both sacred devotion and the often-muted demeanor of City supporters. On the right, sharp Alpine mountains jut into the sky, towering above a quaint village—suggesting origin, ascent, and the call of legacy.\n\nRunning through the center of the image is the River Irwell, winding between geographies like a lifeline—connecting industrial England with the serenity of the mountains. The waters churn beneath the chariot’s wheels, but Arden remains centered.\n\nThis is a portrait of quiet will, inherited tension, and cultural synthesis. Arden does not charge—she steers.",
+  "general_meaning": "The Chariot signifies momentum driven by alignment. It is not the chaos of speed but the force of purpose. You are being asked to direct your energy, to know what you want, and to commit to the path ahead. Success comes from inner balance and intentional movement—not brute force.",
+  "love": "In relationships, The Chariot can indicate a desire to take the reins—either in pursuit or in healing. If things have felt stagnant, this card brings motion. But direction must be mutual. Are you aligned with your partner—or just dragging them along?",
+  "spiritual": "Spiritually, this card speaks to discipline and self-mastery. It’s not a time to drift—this is a call to focus. Choose a path. Choose it clearly. Then commit to walking it, even when the terrain gets uneven. Progress is possible—but only with focus.",
+  "career": "The Chariot is a green light. Momentum is gathering, and you are at the helm. Whether it’s a promotion, relocation, or launch, you are in the driver’s seat. Don’t hesitate—but don’t bulldoze either. Strategic ambition wins.",
+  "reversed": "Reversed, The Chariot warns of scattered focus, impulsive decisions, or burnout. You may be trying to steer without knowing where you're going—or forcing progress when reflection is needed. Regroup. Clarify your intention. Then move."
   },
   "strength": {
     "name": "Strength",
