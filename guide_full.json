@@ -6,7 +6,7 @@
     "keywords": {
       "upright": ["Beginnings", "Innocence", "Curiosity", "Spontaneity", "Potential"],
       "reversed": ["Recklessness", "Hesitation", "Naivety", "Fear", "Foolishness"]
-},
+    },
     "description": "A new journey begins with instinct, not information. Drawn by wonder that overcomes fear. Trust rises before certainty and opens the gate to both freedom and folly.",
     "visual_description": "The Fool stands on the precipice of a cliff, caught in the first breath of a journey. Their garments are loose and flowing, evoking freedom and non-attachment. The figure gazes skyward, head tilted in wonder, as if entranced by possibility rather than focused on the path ahead. They hold a small satchel\u2014light baggage, both literal and metaphorical\u2014suggesting the bare essentials of experience or memory are carried into this new beginning. Nestled between their feet is a small white kitten, calm and wide-eyed, peering upward. Unlike the traditional white dog that barks warnings, this kitten offers quiet companionship and a subtler symbol: curiosity, vulnerability, and intuition without alarm. It represents innocence, receptivity, and the soft guidance of inner knowing. That it sits between the Fool\u2019s legs, rather than trailing or leaping, emphasizes stillness and presence within the unknown. Behind them, a burst of radiance or stylized sun spills upward\u2014a symbol of illumination, divine spark, or the unshaped potential of what lies ahead. The cliffside is clear, earthy, and undramatic; the danger is real, but not emphasized. This is not a card of peril, but of invitation.",
     "general_meaning": "The Fool represents beginnings\u2014the sacred first step into the unknown. It is a card of potential, curiosity, and intuitive risk. There is no map yet, only a call. The Fool moves without fear not because danger is absent, but because wonder outweighs hesitation. This card invites openness, trust, and an embrace of possibility. The Fool may also ask: Are you ready to be seen as na\u00efve in order to grow? Are you willing to take the first step, even if you don\u2019t know where it leads?",
@@ -15,38 +15,38 @@
     "career": "The Fool in career readings can indicate a new opportunity, project, or path\u2014especially one that defies logic but feels aligned. It may involve a move, a creative risk, or stepping into a role that requires growth and humility. Expect the unexpected; this card often heralds non-linear success. Financially, the Fool encourages experimentation and freedom\u2014but with a warning not to leap without some preparation. Pack light, not blind.",
     "reversed": "Reversed, The Fool suggests hesitation, recklessness, or naivety. The leap becomes a stumble. You may be ignoring real risks or resisting change out of fear. Sometimes, it\u2019s not time to move\u2014more reflection is needed. Other times, it\u2019s a call to take the leap but with greater awareness. The kitten, in reversal, may point to ignored intuition or misplaced trust. Ask yourself: Are you running toward growth or away from responsibility? Are you confusing spontaneity with avoidance?"
   },
- "the_magician": {
+  "the_magician": {
    "name": "The Magician",
    "number": 1,
    "image_url": "https://highlig.github.io/ricky-wahite-tarot/images/01-the-magician.png",
    "keywords": {
     "upright": ["Manifestation", "Creation", "Skill", "Confidence", "Intent"],
     "reversed": ["Manipulation", "Disconnection", "Illusion", "Control", "Insecurity"]
-},
-    "description": "With one hand to the sky and one to the earth, he channels energy from spirit into matter. The tools are ready, but only will activates them.",
-    "visual_description": "The Magician stands poised between worlds. One arm reaches upward, fingers extended to the unseen, while the other points down toward the earth\u2014forming a conduit between the divine and the material. This classic posture, often referred to as \u201cas above, so below,\u201d emphasizes his role as the bridge between inspiration and reality. Laid before him are four tools\u2014each representing the suits of the tarot: a cup, a sword, a wand, and a pentacle. These are not simply props; they are elements of creation, gifts already at hand. The message is clear: everything needed is already here, waiting for alignment and intention. Above his head, the symbol of infinity floats\u2014an emblem of limitless potential and the boundless nature of focused will. The background often shows blooming flowers or a luminous space, signifying vitality, manifestation, and a charged atmosphere ready to respond. Where the Fool was pure potential, the Magician begins to shape that potential into form. He is both stage performer and spiritual channel\u2014one who blends mystery with execution.",
-    "general_meaning": "The Magician is a card of manifestation, action, and alignment. It signals a moment when intention, skill, and timing converge. You have what you need\u2014the tools, the drive, the clarity. The question is: will you use them? This card calls for deliberate creation, not passive wishing. It speaks to your ability to shape reality through focus, confidence, and conscious choice. When the Magician appears, the window is open. Speak clearly. Move decisively. Don\u2019t wait for more signs\u2014this is it.",
-    "love": "In love, the Magician signals charisma, attraction, and intentional connection. If you\u2019re single, it can suggest someone with charm and focus entering your life\u2014or your own readiness to manifest the kind of relationship you want, rather than waiting for it. In established relationships, this card asks: Are you actively co-creating, or letting things drift? The Magician brings the reminder that desire and energy need direction. Speak your needs. Set the tone. It can also point to illusion or manipulation\u2014especially if other cards show imbalance. Is what\u2019s being offered real? Or just skillfully performed?",
-    "spiritual": "Spiritually, the Magician is the first conscious awakening of power\u2014the realization that you are not a passive participant in your life, but a co-creator. This card invites you to clarify your will, align your thoughts and actions, and recognize your capacity to influence reality. Ritual, affirmation, creative practices, and direct energetic work are especially powerful under this card. You are in the \u201cdoing\u201d phase of spiritual growth\u2014not retreat, not surrender, but active engagement with the unseen. It\u2019s also a reminder: power without intention is just noise.",
-    "career": "In career readings, the Magician signals a green light for action. You have the talent, the tools, and the timing. It may be time to pitch an idea, apply for something bold, or step into a more visible or leadership role. This card can also indicate a moment of persuasive clarity: presentations, interviews, negotiations, and strategy are favored when the Magician appears. Financially, it may be a good time to initiate projects that require will and effort\u2014investments, new ventures, entrepreneurial work. But it comes with a caveat: results depend on how skillfully you wield what\u2019s in front of you.",
-    "reversed": "Reversed, the Magician warns of manipulation, misalignment, or lost potential. The tools are there, but they\u2019re scattered. The energy is present, but it\u2019s chaotic or self-serving. You may be faking confidence\u2014or allowing imposter syndrome to block your ability. This reversal often shows up when you\u2019re saying the right things but not doing the work, or when you\u2019re trying to control outcomes rather than channel them. It may also reflect someone else using charm or skill deceptively. Ask: Is the power being used ethically? Is this grounded in truth? Reclaim your focus. Recenter your will. The tools haven\u2019t gone anywhere\u2014they\u2019re just waiting for you to pick them up with clear hands."
- },
-   "the_high_priestess": {
-  "name": "The High Priestess",
-  "number": 2,
-  "image_url": "https://highlig.github.io/ricky-wahite-tarot/images/02-the-high-priestess.png",
-  "keywords": {
+   },
+   "description": "With one hand to the sky and one to the earth, he channels energy from spirit into matter. The tools are ready, but only will activates them.",
+   "visual_description": "The Magician stands poised between worlds. One arm reaches upward, fingers extended to the unseen, while the other points down toward the earth\u2014forming a conduit between the divine and the material. This classic posture, often referred to as \u201cas above, so below,\u201d emphasizes his role as the bridge between inspiration and reality. Laid before him are four tools\u2014each representing the suits of the tarot: a cup, a sword, a wand, and a pentacle. These are not simply props; they are elements of creation, gifts already at hand. The message is clear: everything needed is already here, waiting for alignment and intention. Above his head, the symbol of infinity floats\u2014an emblem of limitless potential and the boundless nature of focused will. The background often shows blooming flowers or a luminous space, signifying vitality, manifestation, and a charged atmosphere ready to respond. Where the Fool was pure potential, the Magician begins to shape that potential into form. He is both stage performer and spiritual channel\u2014one who blends mystery with execution.",
+   "general_meaning": "The Magician is a card of manifestation, action, and alignment. It signals a moment when intention, skill, and timing converge. You have what you need\u2014the tools, the drive, the clarity. The question is: will you use them? This card calls for deliberate creation, not passive wishing. It speaks to your ability to shape reality through focus, confidence, and conscious choice. When the Magician appears, the window is open. Speak clearly. Move decisively. Don\u2019t wait for more signs\u2014this is it.",
+   "love": "In love, the Magician signals charisma, attraction, and intentional connection. If you\u2019re single, it can suggest someone with charm and focus entering your life\u2014or your own readiness to manifest the kind of relationship you want, rather than waiting for it. In established relationships, this card asks: Are you actively co-creating, or letting things drift? The Magician brings the reminder that desire and energy need direction. Speak your needs. Set the tone. It can also point to illusion or manipulation\u2014especially if other cards show imbalance. Is what\u2019s being offered real? Or just skillfully performed?",
+   "spiritual": "Spiritually, the Magician is the first conscious awakening of power\u2014the realization that you are not a passive participant in your life, but a co-creator. This card invites you to clarify your will, align your thoughts and actions, and recognize your capacity to influence reality. Ritual, affirmation, creative practices, and direct energetic work are especially powerful under this card. You are in the \u201cdoing\u201d phase of spiritual growth\u2014not retreat, not surrender, but active engagement with the unseen. It\u2019s also a reminder: power without intention is just noise.",
+   "career": "In career readings, the Magician signals a green light for action. You have the talent, the tools, and the timing. It may be time to pitch an idea, apply for something bold, or step into a more visible or leadership role. This card can also indicate a moment of persuasive clarity: presentations, interviews, negotiations, and strategy are favored when the Magician appears. Financially, it may be a good time to initiate projects that require will and effort\u2014investments, new ventures, entrepreneurial work. But it comes with a caveat: results depend on how skillfully you wield what\u2019s in front of you.",
+   "reversed": "Reversed, the Magician warns of manipulation, misalignment, or lost potential. The tools are there, but they\u2019re scattered. The energy is present, but it\u2019s chaotic or self-serving. You may be faking confidence\u2014or allowing imposter syndrome to block your ability. This reversal often shows up when you\u2019re saying the right things but not doing the work, or when you\u2019re trying to control outcomes rather than channel them. It may also reflect someone else using charm or skill deceptively. Ask: Is the power being used ethically? Is this grounded in truth? Reclaim your focus. Recenter your will. The tools haven\u2019t gone anywhere\u2014they\u2019re just waiting for you to pick them up with clear hands."
+  },
+  "the_high_priestess": {
+   "name": "The High Priestess",
+   "number": 2,
+   "image_url": "https://highlig.github.io/ricky-wahite-tarot/images/02-the-high-priestess.png",
+   "keywords": {
     "upright": ["Intuition", "Mystery", "Secrets", "Depth", "Reflection"],
     "reversed": ["Obscurity", "Superficiality", "Suppression", "Confusion", "Mistrust"]
-  },
-  "description": "Silence holds what cannot be explained. Truth emerges through stillness; what is hidden offers guidance to those who listen inward.",
-  "visual_description": "The High Priestess is rendered as a cat—Pebble—seated in a centered, symmetrical pose. Her expression is serene but unreadable, large eyes open and alert, as if absorbing everything and revealing nothing. She wears a deep blue cloak, lined in gray and patterned faintly with stars. The fabric pools around her paws, framing her in stillness.\n\nShe sits between two pillars: one black with the letter B and one white with the letter J. These represent Boaz and Jachin, names drawn from the entrance of the Temple of Solomon. Boaz (black) symbolizes strength, passivity, and mystery; Jachin (white) represents establishment, activity, and clarity. Together, they form the gateway between opposites—dark and light, hidden and seen, inner and outer.\n\nBehind Pebble is a cream-colored veil, densely patterned with red pomegranates. The veil obscures what lies beyond, suggesting that sacred knowledge is guarded but not unreachable. The pomegranates represent fertility, inner wisdom, and cycles of transformation, and echo mythic descent and return, such as Persephone’s journey to and from the underworld.\n\nPebble holds a partially unrolled scroll marked TORA between her front paws, and gently dips it into a shallow pool of water at her feet. This action signifies the fusion of written knowledge and intuitive depth—the sacred text immersed in reflection. The water is dark and gently rippling, disturbed by the scroll’s contact. It adds a sense of movement and emotional depth to an otherwise composed and symmetrical scene.\n\nPebble’s gaze is level. She is not withholding the truth, but neither is she offering it freely. The scene is symmetrical, muted, and saturated with layered meaning—duality, inner knowing, feminine power, and the boundary between what is known and what must be sensed.",
-  "general_meaning": "The High Priestess represents the power of inner knowing. She comes when it’s time to listen rather than act—to trust what you sense, even if it defies logic or explanation. She holds the mysteries not because she is hiding them, but because you are meant to approach slowly, with care.\n\nThis card often signals a period of retreat, intuition, and subtle but profound realizations. You are being asked to hold space—not fill it.",
-  "love": "This card often reflects emotional undercurrents—longings unspoken, intuitions unexplored. There may be a sense that something is shifting or unknown. The High Priestess invites you to feel before you define, and to trust subtle signals from yourself and others.\n\nIf you're single, pay attention to the energy around you. If partnered, lean into the power of listening and vulnerability. Truth may not be said aloud—but it is present.",
-  "spiritual": "The High Priestess is the gateway to spiritual insight. Her presence affirms your path inward—through dreams, meditation, study, or sacred silence. This is not the moment for flashy ritual or external validation. This is a time to tend your inner temple.\n\nYou may experience intuitive breakthroughs, ancestral memory, or the feeling that you’ve known something all along. Follow that thread.",
-  "career": "In practical matters, this card signals that all the facts may not be visible yet. Pause before signing, committing, or reacting. Trust your instincts, even if you can't yet articulate why. A hidden factor may be influencing events.\n\nThis is also a strong card for anyone in research, teaching, healing, or intuitive work. Your inner compass is the sharpest tool you have right now.",
-  "reversed": "When reversed, the High Priestess warns of disconnection from intuition or fear of your inner voice. You may be relying too heavily on others' advice or ignoring subtle warnings. There could also be secrets—yours or someone else’s—casting confusion or mistrust into a situation.\n\nThis card reversed doesn’t mean the wisdom is gone—it means you may need to re-center, clear noise, and return to your own source of truth."
-}
+   },
+   "description": "Silence holds what cannot be explained. Truth emerges through stillness; what is hidden offers guidance to those who listen inward.",
+   "visual_description": "The High Priestess is rendered as a cat—Pebble—seated in a centered, symmetrical pose. Her expression is serene but unreadable, large eyes open and alert, as if absorbing everything and revealing nothing. She wears a deep blue cloak, lined in gray and patterned faintly with stars. The fabric pools around her paws, framing her in stillness.\n\nShe sits between two pillars: one black with the letter B and one white with the letter J. These represent Boaz and Jachin, names drawn from the entrance of the Temple of Solomon. Boaz (black) symbolizes strength, passivity, and mystery; Jachin (white) represents establishment, activity, and clarity. Together, they form the gateway between opposites—dark and light, hidden and seen, inner and outer.\n\nBehind Pebble is a cream-colored veil, densely patterned with red pomegranates. The veil obscures what lies beyond, suggesting that sacred knowledge is guarded but not unreachable. The pomegranates represent fertility, inner wisdom, and cycles of transformation, and echo mythic descent and return, such as Persephone’s journey to and from the underworld.\n\nPebble holds a partially unrolled scroll marked TORA between her front paws, and gently dips it into a shallow pool of water at her feet. This action signifies the fusion of written knowledge and intuitive depth—the sacred text immersed in reflection. The water is dark and gently rippling, disturbed by the scroll’s contact. It adds a sense of movement and emotional depth to an otherwise composed and symmetrical scene.\n\nPebble’s gaze is level. She is not withholding the truth, but neither is she offering it freely. The scene is symmetrical, muted, and saturated with layered meaning—duality, inner knowing, feminine power, and the boundary between what is known and what must be sensed.",
+   "general_meaning": "The High Priestess represents the power of inner knowing. She comes when it’s time to listen rather than act—to trust what you sense, even if it defies logic or explanation. She holds the mysteries not because she is hiding them, but because you are meant to approach slowly, with care.\n\nThis card often signals a period of retreat, intuition, and subtle but profound realizations. You are being asked to hold space—not fill it.",
+   "love": "This card often reflects emotional undercurrents—longings unspoken, intuitions unexplored. There may be a sense that something is shifting or unknown. The High Priestess invites you to feel before you define, and to trust subtle signals from yourself and others.\n\nIf you're single, pay attention to the energy around you. If partnered, lean into the power of listening and vulnerability. Truth may not be said aloud—but it is present.",
+   "spiritual": "The High Priestess is the gateway to spiritual insight. Her presence affirms your path inward—through dreams, meditation, study, or sacred silence. This is not the moment for flashy ritual or external validation. This is a time to tend your inner temple.\n\nYou may experience intuitive breakthroughs, ancestral memory, or the feeling that you’ve known something all along. Follow that thread.",
+   "career": "In practical matters, this card signals that all the facts may not be visible yet. Pause before signing, committing, or reacting. Trust your instincts, even if you can't yet articulate why. A hidden factor may be influencing events.\n\nThis is also a strong card for anyone in research, teaching, healing, or intuitive work. Your inner compass is the sharpest tool you have right now.",
+   "reversed": "When reversed, the High Priestess warns of disconnection from intuition or fear of your inner voice. You may be relying too heavily on others' advice or ignoring subtle warnings. There could also be secrets—yours or someone else’s—casting confusion or mistrust into a situation.\n\nThis card reversed doesn’t mean the wisdom is gone—it means you may need to re-center, clear noise, and return to your own source of truth."
+ },
  "the_empress": {
   "name": "The Empress",
   "number": 3,
@@ -63,7 +63,7 @@
   "career": "In career readings, The Empress signals creative abundance, steady expansion, and supportive environments. This may be a fertile time for launching a project, nurturing a team, or investing energy into something that brings beauty or connection into the world.\n\nFinancially, this card encourages sustainable prosperity. It supports long-term investments, not risky maneuvers. Work that aligns with your values will feel more fruitful now than work that’s purely strategic.\n\nThe Empress also warns against burnout: your productivity is not your worth.",
   "reversed": "Reversed, The Empress may point to a lack of nurturing—toward yourself, your work, or someone you care for. You may be running dry, giving without replenishing, or withholding care from something that needs it.\n\nIt can also signal over-nurturing: smothering, enabling, or becoming lost in someone else’s needs. Boundaries matter, even for the Empress.\n\nAsk: Am I tending the garden—or trying to control it? What would it mean to give from wholeness, not depletion?"
 },
-  "the_emperor": {
+ "the_emperor": {
   "name": "The Emperor",
   "number": 4,
   "image_url": "https://highlig.github.io/ricky-wahite-tarot/images/04-the-emperor.png",
@@ -94,8 +94,8 @@
   "spiritual": "Spiritually, the Hierophant invites you to study, reflect, and integrate what’s been passed down. This is a card of lineage—not just biological, but energetic. Who taught your teachers? What rituals shaped your worldview?\n\nIt encourages participation in spiritual communities or wisdom traditions, but also challenges blind obedience. Listen, then decide what becomes yours to carry.",
   "career": "In career readings, the Hierophant may indicate mentorship, organizational systems, or roles tied to education, religion, or law. This is a good time to learn from established structures—or challenge and update them.\n\nIt also asks whether your current path aligns with your deeper values. Are you working with purpose? Or following rules without meaning?",
   "reversed": "Reversed, the Hierophant can point to dogma, misuse of authority, or spiritual rigidity. You may be clinging to outdated beliefs or resisting growth because of fear masked as tradition.\n\nAlternatively, it may signal the need to rebel—to break away from systems that no longer reflect your truth. But even rebellion needs reflection. Ask yourself: What are you rejecting—and what are you replacing it with?"
-},
-  "the_lovers": {
+ },
+ "the_lovers": {
   "name": "The Lovers",
   "number": 6,
   "image_url": "https://highlig.github.io/ricky-wahite-tarot/images/06-the-lovers.png",
@@ -110,8 +110,8 @@
   "spiritual": "Spiritually, The Lovers represents integration and alignment. It may be time to examine whether your beliefs, values, and actions are in harmony—or if something needs to be reconciled. True spiritual maturity often emerges not from isolation, but from connection.\n\nIt’s also a card of sacred mirroring. Who or what in your life is reflecting your own longing, fear, or growth back to you?",
   "career": "The Lovers in a career context may indicate partnerships, contracts, or a major decision that will define your path. It often appears when your heart and your work need to come into better alignment.\n\nIf you're weighing options, this card suggests choosing not just what’s lucrative, but what’s meaningful. Connection, purpose, and shared vision matter.",
   "reversed": "Reversed, The Lovers points to conflict, indecision, or misalignment. A relationship may be strained, a commitment faltering, or a tempting shortcut undermining long-term integrity.\n\nIt may also signal a failure to choose—drifting instead of engaging. Reconnect with your values. Ask honestly: What are you truly drawn to? And are you willing to show up for it?"
-},
-  "the_chariot": {
+ },
+ "the_chariot": {
   "name": "The Chariot",
   "number": 7,
   "image_url": "https://highlig.github.io/ricky-wahite-tarot/images/07-the-chariot.png",
@@ -126,8 +126,8 @@
   "spiritual": "Spiritually, this card speaks to discipline and self-mastery. It’s not a time to drift—this is a call to focus. Choose a path. Choose it clearly. Then commit to walking it, even when the terrain gets uneven. Progress is possible—but only with focus.",
   "career": "The Chariot is a green light. Momentum is gathering, and you are at the helm. Whether it’s a promotion, relocation, or launch, you are in the driver’s seat. Don’t hesitate—but don’t bulldoze either. Strategic ambition wins.",
   "reversed": "Reversed, The Chariot warns of scattered focus, impulsive decisions, or burnout. You may be trying to steer without knowing where you're going—or forcing progress when reflection is needed. Regroup. Clarify your intention. Then move."
-  },
-  "strength": {
+ },
+ "strength": {
   "name": "Strength",
   "number": 8,
   "image_url": "https://highlig.github.io/ricky-wahite-tarot/images/08-strength.png",
@@ -142,8 +142,8 @@
   "spiritual": "Spiritually, Strength reminds you that the heart is the most powerful muscle. It invites you to honor both your softness and your will. True growth doesn't come from escaping hardship, but from facing it with integrity. Let your spiritual practice hold space for your whole self—fears, flaws, and all.",
   "career": "Professionally, Strength can indicate a time to navigate tension with grace. You may be in a leadership position that requires steadiness, or facing a challenge that asks for quiet resilience. It’s not about being the loudest voice—it’s about being the calm center that others trust.",
   "reversed": "Reversed, Strength may point to insecurity, burnout, or a struggle to stand in your power. You might be repressing emotions or acting out of fear. It can also show up when you’re trying to appear strong instead of *being* strong. Take a breath. Soften. True courage includes rest, tears, and asking for help when needed."
-},
-  "the_hermit": {
+ },
+ "the_hermit": {
   "name": "The Hermit",
   "number": 9,
   "image_url": "https://highlig.github.io/ricky-wahite-tarot/images/09-the-hermit.png",
@@ -158,8 +158,8 @@
   "spiritual": "Spiritually, The Hermit is a pilgrimage. It signals deep introspection, a time when outer guidance fades and inner wisdom rises. You may be less interested in doctrine, more drawn to personal practice—walking, writing, sitting with the stars.\n\nThere may be discomfort in this kind of quiet, especially if you’re used to seeking answers outside yourself. But the lantern is lit. The way is slow, and holy.",
   "career": "In work or creative life, this card may suggest a solo venture, research phase, or time away from the spotlight. Step back from external validation. Not every idea needs immediate exposure.\n\nIf you're stuck, turn inward rather than pushing harder. Trust your instincts over trends. The Hermit’s message: create from integrity, not approval.",
   "reversed": "Reversed, The Hermit can indicate unhealthy isolation or avoidance. You may be retreating out of fear, hiding from life instead of seeking wisdom.\n\nAlternatively, you may be resisting solitude—distracting yourself from inner truths that want to be faced. The card may ask you to examine your relationship with aloneness. Are you using it to heal—or to disappear?\n\nFind balance. You don’t need to vanish to find yourself. But you do need to listen."
-},
-  "wheel_of_fortune": {
+ },
+ "wheel_of_fortune": {
   "name": "Wheel of Fortune",
   "number": 10,
   "image_url": "https://highlig.github.io/ricky-wahite-tarot/images/10-wheel-of-fortune.png",
@@ -174,8 +174,8 @@
   "spiritual": "Spiritually, this card is a reminder that time, karma, and destiny all move in cycles. You may be entering a phase of alignment or transition. Trust the larger pattern. Stay grounded, even as the sky spins.\n\nIt can also point to synchronicities—signs and repeating patterns—meant to guide you. Pay attention to what keeps showing up.",
   "career": "Career-wise, the Wheel may bring opportunity, unpredictability, or shifts in direction. Promotions, layoffs, mergers, and lucky breaks all fall under this card’s domain. The challenge is to stay flexible and responsive.\n\nIf you’ve been waiting for a sign to act—this may be it. Strike while the wheel is turning, but don’t get attached to any single outcome.",
   "reversed": "Reversed, the Wheel suggests resistance to change, or clinging to control in a situation that requires surrender. You may be feeling unlucky, stuck, or at the mercy of external events.\n\nThis card may ask you to loosen your grip. What patterns are repeating? What lesson is trying to be learned? Until it is, the wheel may spin in place.\n\nChange is inevitable. Growth is optional."
-},
-  "justice": {
+ },
+ "justice": {
   "name": "Justice",
   "number": 11,
   "image_url": "https://highlig.github.io/ricky-wahite-tarot/images/11-justice.png",
@@ -190,8 +190,8 @@
   "spiritual": "Spiritually, Justice asks you to align your actions with your values. It’s a reminder that karma operates through patterns—what you choose, how you treat others, and how you show up in difficult moments.\n\nThis card encourages discernment, honesty, and spiritual maturity. The path to wisdom often requires confronting uncomfortable truths.",
   "career": "In career readings, Justice may point to legal matters, contracts, or ethical dilemmas. You may be facing scrutiny or being asked to evaluate the fairness of your situation.\n\nThis is a card of accountability—what have you earned, and what have you avoided? Stand by your principles and document your choices.",
   "reversed": "Reversed, Justice may reveal dishonesty, bias, or corruption. You may be on the receiving end of an unfair decision—or avoiding responsibility for your own actions.\n\nThis card warns against denial and defensiveness. If things feel unbalanced, take a hard look at how you got here. If you’re being wronged, advocate clearly and persistently. Justice delayed is not always justice denied, but it must be pursued."
-},
-  "the_hanged": {
+ },
+ "the_hanged": {
   "name": "The Hanged",
   "number": 12,
   "image_url": "https://highlig.github.io/ricky-wahite-tarot/images/12-the-hanged.png",
@@ -206,8 +206,8 @@
   "spiritual": "Spiritually, this card invites contemplation and surrender. You're being asked to trust the process—even when it feels upside down. Stillness is sacred. Wisdom will emerge from the pause.\n\nMeditate. Reflect. Loosen your grip on the outcome. This is the space in which true transformation begins.",
   "career": "Career-wise, The Hanged may point to delays, transitions, or a period of limbo. You may feel stuck or uncertain. The best move right now might be no move—waiting with intention rather than rushing forward.\n\nUse this time to reframe your goals and consider alternative approaches. Insight is coming, but it needs space.",
   "reversed": "Reversed, The Hanged suggests resistance to surrender. You may be clinging to control, unwilling to let go—even when doing so would bring peace. This can also reflect victimhood or playing the martyr, staying stuck by choice.\n\nYou’re being asked to shift your perspective. Let go of the need for immediate resolution. Stillness is not failure. It is the beginning of clarity."
-},
-  "death": {
+ },
+ "death": {
   "name": "Death",
   "number": 13,
   "image_url": "https://highlig.github.io/ricky-wahite-tarot/images/13-death.png",
@@ -222,8 +222,8 @@
   "spiritual": "Spiritually, Death is a powerful threshold. Something in your old worldview may be dying. This is not a crisis—it’s an initiation. Your path is shedding skin. You may feel uncertain or lost. That’s the space before clarity.\n\nTrust in the process. Grieve, release, then begin again. This is sacred composting.",
   "career": "In work, Death can mean a job ending, a project wrapping up, or a career pivot on the horizon. It might feel like a door closing—but that may be a blessing in disguise.\n\nTake time to understand what is truly ending. Then shift your energy. Don’t resist the inevitable. Something new is waiting.",
   "reversed": "Reversed, Death suggests resistance. You may be holding on to something long past its expiration—out of fear, habit, or denial. This creates stagnation. You’re stuck in a chapter that wants to end.\n\nFace the fear of change. Acknowledge what’s dying. Releasing it is painful, but staying locked in place is worse.\n\nEvery ending holds a seed."
-},
-  "temperance": {
+ },
+ "temperance": {
   "name": "Temperance",
   "number": 14,
   "image_url": "https://highlig.github.io/ricky-wahite-tarot/images/14-temperance.png",
@@ -238,8 +238,8 @@
   "spiritual": "Spiritually, this card represents inner alchemy: the act of turning experience into wisdom. It asks you to blend what you’ve learned into a more complete self, without rushing the process.\n\nIt can also indicate a time of peaceful alignment with your path, where spiritual practices, insights, and daily life begin to harmonize.",
   "career": "In career matters, Temperance suggests collaboration, long-term planning, and the balancing of ambition with sustainability. It may point to team efforts where different skills and styles can be combined successfully.\n\nAvoid extremes. Stay steady and responsive. This is not the time to force things—it’s the time to cultivate a rhythm that lasts.",
   "reversed": "Reversed, Temperance can indicate disharmony, impatience, or overcorrection. You may be swinging between extremes, pushing too hard, or failing to blend parts of your life that need reconciliation.\n\nTake a breath. Step back. Where can you reduce friction, ease tension, or reestablish flow? The solution lies in subtle shifts, not dramatic swings."
-},
-  "the_devil": {
+ },
+ "the_devil": {
   "name": "The Devil",
   "number": 15,
   "image_url": "https://highlig.github.io/ricky-wahite-tarot/images/15-the-devil.png",
@@ -254,8 +254,8 @@
   "spiritual": "Spiritually, this card is a shadow work invitation. Where are you giving your power away? What do you avoid seeing? It may point to unconscious patterns, shame, or buried impulses asking for integration—not repression.\n\nFreedom comes through awareness, not rejection. The Devil dares you to look deeper and reclaim your wholeness.",
   "career": "Career-wise, The Devil may represent a toxic work environment, golden handcuffs, or unsustainable ambition. It could also reflect burnout, over-identification with success, or fear-based choices.\n\nThis card asks you to consider: what are you sacrificing, and is it worth it? What fear is driving your hustle?",
   "reversed": "Reversed, this card signals the start of liberation. You may be recognizing the illusion or seeing the chains for what they are. It’s a sign you’re ready to let go of limiting beliefs or toxic patterns.\n\nAlternatively, it can warn of deeper denial—clinging even harder to what no longer serves you. Don’t numb out. Wake up."
-},
-  "the_tower": {
+ },
+ "the_tower": {
   "name": "The Tower",
   "number": 16,
   "image_url": "https://highlig.github.io/ricky-wahite-tarot/images/16-the-tower.png",
@@ -270,8 +270,8 @@
   "spiritual": "Spiritually, this card is an awakening via demolition. Something in your worldview is being torn down. A belief, a pattern, or an identity may be falling apart. This can feel disorienting—but it’s sacred work.\n\nYou’re being stripped down to what’s real. Don’t cling to what’s burning.",
   "career": "Career-wise, The Tower could mean sudden layoffs, failures, or the collapse of a professional plan. Something has gone sideways—but that doesn’t mean the end. It may force you to pursue a truer path, one less built on false assumptions.\n\nLet what’s unstable fall. Rebuild with awareness.",
   "reversed": "Reversed, The Tower may suggest that you’re avoiding an inevitable collapse. You feel the rumblings, but you’re still trying to hold up a structure that’s past saving. Let go.\n\nIt can also mean the upheaval is internal: a crisis of identity or belief, quietly breaking down inside you.\n\nWhether outward or inward, the lesson is the same: break to rebuild."
-},
-  "the_star": {
+ },
+ "the_star": {
   "name": "The Star",
   "number": 17,
   "image_url": "https://highlig.github.io/ricky-wahite-tarot/images/17-the-star.png",
@@ -286,8 +286,8 @@
   "spiritual": "Spiritually, The Star is a return to source. You may feel more attuned to intuitive messages, dreams, or symbols. This is a time for purification and reconnection—to yourself, to spirit, to trust.\n\nAcknowledge what has been lost. Then notice what is still shining.",
   "career": "Career-wise, this card can indicate hope restored after a setback or a guiding light toward more aligned work. You may be finding clarity in your values, or receiving help from an unexpected source.\n\nLet your next steps come from inner knowing, not outer pressure.",
   "reversed": "Reversed, The Star can point to discouragement, cynicism, or a loss of belief in your own path. You may feel disconnected from your purpose or overwhelmed by doubt.\n\nThis is a time to care gently for yourself. Reconnect to your inner compass. Healing is still possible—but it begins with believing that it is."
-},
-  "the_moon": {
+ },
+ "the_moon": {
   "name": "The Moon",
   "number": 18,
   "image_url": "https://highlig.github.io/ricky-wahite-tarot/images/18-the-moon.png",
@@ -302,8 +302,8 @@
   "spiritual": "Spiritually, the Moon opens a gateway to dreams, intuition, and shadow work. You may receive insight in non-rational ways—symbols, dreams, synchronicities.\n\nIt’s also a time for caution: not everything coming up now is trustworthy. Use discernment. Let what’s unclear stay unclear until it’s ready.",
   "career": "In work, this card suggests unclear circumstances or workplace dynamics driven by rumor, insecurity, or hidden agendas. Avoid overanalyzing. Instead, document your decisions, stick to facts, and wait for clarity.\n\nThe Moon may also indicate a creative phase driven by unconscious inspiration—trust the muse, but double-check the contract.",
   "reversed": "Reversed, the Moon can reveal that confusion is lifting—or that fear is clouding your instincts. You may be doubting your inner voice or stuck in old illusions. This is a call to slow down, center yourself, and reflect.\n\nIt may also point to emotional overwhelm or anxiety. Create space to ground. Not every feeling is fact—but all deserve compassion."
-},
-  "the_sun": {
+ },
+ "the_sun": {
   "name": "The Sun",
   "number": 19,
   "image_url": "https://highlig.github.io/ricky-wahite-tarot/images/19-the-sun.png",
@@ -318,8 +318,8 @@
   "spiritual": "Spiritually, The Sun is an invitation to align with your inner light. There’s no need to search—just to express and allow. When you lead with joy, clarity follows. Return to the basics of your spiritual practice and let them nourish you.",
   "career": "Career-wise, The Sun heralds success, confidence, and momentum. Projects move forward with energy. You may be in the spotlight—own it with humility and openness. If you’ve been questioning your path, this card says: you’re on it.",
   "reversed": "Reversed, The Sun warns of overexposure, false positivity, or burnout from chasing too hard. You might be performing joy instead of feeling it.\n\nIt’s also possible you’re struggling to feel good even in the midst of success. Return to what nourishes you. The light is still there—don’t let pressure steal your joy."
-},
-  "judgement": {
+ },
+ "judgement": {
   "name": "Judgement",
   "number": 20,
   "image_url": "https://highlig.github.io/ricky-wahite-tarot/images/20-judgement.png",
@@ -334,8 +334,8 @@
   "spiritual": "Spiritually, Judgement points to a breakthrough. You may be awakening to a deeper truth or being asked to step into a role or identity you've avoided. The path ahead may require forgiveness—especially of yourself. Let go. Rise up.",
   "career": "Career-wise, this card marks a turning point. You may be called to change paths, take on new leadership, or finally confront something you've been avoiding. If you've done the work, recognition is coming. If not, now’s the time to face it.",
   "reversed": "Reversed, Judgement indicates hesitation or refusal to answer the call. You might be avoiding consequences, clinging to an outdated version of yourself, or doubting your readiness.\n\nThe fear is understandable—but the moment won't wait forever. Clarity begins when you stop running."
-},
-  "the_world": {
+ },
+ "the_world": {
   "name": "The World",
   "number": 21,
   "image_url": "https://highlig.github.io/ricky-wahite-tarot/images/21-the-world.png",
@@ -350,7 +350,7 @@
   "spiritual": "This is a card of spiritual alignment. You may feel a deep sense of purpose, clarity, or connection to a larger pattern. Your inner and outer worlds are syncing. Take a breath—this is sacred ground.",
   "career": "A major cycle may be closing at work: a promotion, completed project, or new opportunity that comes from hard-earned skill. It’s also a reminder to acknowledge your wins and reflect before starting the next chapter.",
   "reversed": "Reversed, The World suggests something’s unfinished. A missing piece, a missed closure, or a reluctance to move on. It can also mean over-identifying with roles or narratives that no longer serve. You don’t need to be everything to everyone. Real completion starts with truth."
-},
+ },
   "ace_of_cups": {
     "name": "Ace Of Cups",
     "number": 22,
