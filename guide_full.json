@@ -351,19 +351,19 @@
   "career": "A major cycle may be closing at work: a promotion, completed project, or new opportunity that comes from hard-earned skill. It’s also a reminder to acknowledge your wins and reflect before starting the next chapter.",
   "reversed": "Reversed, The World suggests something’s unfinished. A missing piece, a missed closure, or a reluctance to move on. It can also mean over-identifying with roles or narratives that no longer serve. You don’t need to be everything to everyone. Real completion starts with truth."
  },
-  "ace_of_cups": {
-    "name": "Ace Of Cups",
-    "number": 22,
-    "image_url": "https://highlig.github.io/ricky-wahite-tarot/images/22-ace-of-cups.png",
-    "keywords": [],
-    "description": "",
-    "visual_description": "",
-    "general_meaning": "",
-    "love": "",
-    "spiritual": "",
-    "career": "",
-    "reversed": ""
-  },
+  "ace_of_cups": "ace_of_cups": {
+  "name": "Ace Of Cups",
+  "number": 1,
+  "image_url": "https://highlig.github.io/ricky-wahite-tarot/images/22-ace-of-cups.png",
+  "keywords": ["Emotional renewal", "Creative flow", "Love", "Spiritual openness", "Receiving"],
+  "description": "The Ace of Cups in the Ricky-Wahité Tarot overflows with feeling, intuition, and openness to connection. It represents a vessel for new emotional experience—pure, present, and unguarded.",
+  "visual_description": "A hand reaches from swirling clouds, holding a wide-mouthed Nalgene bottle in place of a chalice. From its opening, five streams of water burst upward, while droplets spill downward into a tranquil lotus pond below. A dove descends, placing a stamp with lips into the bottle. Stickers decorate the bottle: a peach with a heart-shaped mountain, a single red drop, a pine silhouette, a swirling wave, and an eight-pointed star.",
+  "general_meaning": "This card signifies an emotional or spiritual fresh start. It’s an invitation to love freely, listen inwardly, and allow creative or intuitive energies to rise and move through you.",
+  "love": "A new relationship or a deepening of emotional bonds. You may be opening your heart in a more vulnerable or genuine way than before.",
+  "spiritual": "A heightened awareness of beauty, intuition, and inner peace. Let your heart guide you as a sacred compass.",
+  "career": "A creative breakthrough or a role that allows for emotional expression, connection, or nurturing energy. A project may begin to ‘flow’ in a surprising way.",
+  "reversed": "Blocked emotions, creative stagnation, or emotional burnout. It can suggest difficulty receiving love or being closed off to deeper experience."
+},
   "two_of_cups": {
     "name": "Two Of Cups",
     "number": 23,
