@@ -355,7 +355,10 @@
   "name": "Ace Of Cups",
   "number": 1,
   "image_url": "https://highlig.github.io/ricky-wahite-tarot/images/22-ace-of-cups.png",
-  "keywords": ["Emotional renewal", "Creative flow", "Love", "Spiritual openness", "Receiving"],
+  "keywords": {
+    "upright": ["Awakening", "Abundance", "Intuition", "Creativity", "Compassion"],
+    "reversed": ["Blocked", "Drained", "Disconnected", "Suppressed"]
+  },
   "description": "The Ace of Cups in the Ricky-Wahité Tarot overflows with feeling, intuition, and openness to connection. It represents a vessel for new emotional experience—pure, present, and unguarded.",
   "visual_description": "A hand reaches from swirling clouds, holding a wide-mouthed Nalgene bottle in place of a chalice. From its opening, five streams of water burst upward, while droplets spill downward into a tranquil lotus pond below. A dove descends, placing a stamp with lips into the bottle. Stickers decorate the bottle: a peach with a heart-shaped mountain, a single red drop, a pine silhouette, a swirling wave, and an eight-pointed star.",
   "general_meaning": "This card signifies an emotional or spiritual fresh start. It’s an invitation to love freely, listen inwardly, and allow creative or intuitive energies to rise and move through you.",
@@ -368,7 +371,10 @@
   "name": "Two of Cups",
   "number": 2,
   "image_url": "https://highlig.github.io/ricky-wahite-tarot/images/23-two-of-cups.png",
-  "keywords": ["Connection", "Union", "Mutuality", "Trust", "Partnership"],
+  "keywords": {
+    "upright": ["Union", "Bond", "Alignment", "Healing", "Harmony"],
+    "reversed": ["Tension", "Imbalance", "Guardedness", "Dependence", "Distance"]
+  },
   "description": "Aang and Katara raise their golden cups in a moment of shared harmony and mutual recognition. The Two of Cups symbolizes emotional reciprocity, tender beginnings, and sacred bonds formed through honesty and vulnerability.",
   "visual_description": "Aang and Katara stand chest-deep in water, facing each other, each holding a golden cup. Between them floats a caduceus symbol with a winged lion’s head above it—an emblem of energetic union and protection. Gentle mountains and a small house rest in the distant background, while swirling waves surround their forms below.",
   "general_meaning": "This card speaks to emotional balance between two people, the spark of a meaningful relationship, or a heartfelt agreement. It may mark a new connection, a reconciliation, or a moment of mutual trust.",
@@ -381,7 +387,10 @@
   "name": "Three of Cups",
   "number": 3,
   "image_url": "https://highlig.github.io/ricky-wahite-tarot/images/24-three-of-cups.png",
-  "keywords": ["Celebration", "Friendship", "Community", "Support", "Joy"],
+  "keywords": {
+    "upright": ["Community", "Abundance", "Creativity", "Collaboration", "Sisterhood"],
+    "reversed": ["Isolation", "Superficiality", "Exclusion", "Conflict", "Withdrawal"]
+  },
   "description": "Cady, Janice, and Damien raise red party cups in spirited unison. This card is a tribute to friendship that nourishes, laughter that heals, and moments that remind you—you don’t have to do it alone.",
   "visual_description": "Three friends stand in joyful embrace, arms raised with red solo cups. Janice wears her signature dark layers, Damien dons a blue hoodie and sunglasses, and Cady glows in autumn tones. They’re surrounded by flowers, fruit, and a pumpkin, all bursting with abundance and warmth under a swirling sky.",
   "general_meaning": "A moment of connection, celebration, or shared relief. Whether it's a party, a reunion, or just a night out with your people, this card invites you to embrace joy in community and honor the power of chosen family.",
@@ -394,7 +403,10 @@
   "name": "Four of Cups",
   "number": 4,
   "image_url": "https://highlig.github.io/ricky-wahite-tarot/images/25-four-of-cups.png",
-  "keywords": ["Discontent", "Apathy", "Withdrawal", "Re-evaluation", "Missed Opportunities"],
+  "keywords": {
+    "upright": ["Contemplation", "Withdrawal", "Restlessness", "Apathy", "Possibility"],
+    "reversed": ["Reawakening", "Reconnection", "Stagnation", "Missed Opportunities", "Resistance"]
+  },
   "description": "Zihan sulks beneath a tree in full emotional retreat, arms crossed and brow furrowed, completely ignoring the divine swirl of soft serve being offered from beyond the frame. This card is the spiritual shrug emoji—dripping with mood, and a refusal to engage.",
   "visual_description": "Zihan sits cross-legged under a tree in a blue parka, arms crossed and eyes scrunched shut. Three cups of swirled soft serve sit untouched before him, while a fourth floats beside his head, offered by a mysterious hand. Falling leaves swirl in the air, echoing his inner storm of adolescent angst.",
   "general_meaning": "The Four of Cups asks you to examine what you’re turning away from. Something may be offered—a chance, an emotion, a connection—but your gaze is fixed inward. Withdrawal can serve a purpose, but don’t miss what’s blooming at the edge of your vision.",
@@ -407,7 +419,10 @@
   "name": "Five of Cups",
   "number": 5,
   "image_url": "https://highlig.github.io/ricky-wahite-tarot/images/26-five-of-cups.png",
-  "keywords": ["Regret", "Grief", "Forgiveness", "Emotional Loss", "Reconciliation"],
+  "keywords": {
+    "upright": ["Loss", "Regret", "Disappointment", "Mourning", "Longing"],
+    "reversed": ["Acceptance", "Healing", "Perspective", "Renewal", "Recovery"]
+  },
   "description": "Zuko kneels beside a stream, cloaked in sorrow, his head bowed and his gaze fixed on the three spilled cups before him. Yet behind him, two remain untouched—steam rising from one. In the distance, Iroh’s tent glows softly with warmth. This moment captures the heavy pause before a turning point, when remorse meets the potential for redemption.",
   "visual_description": "Zuko, in a dark cloak with gold trim, sits in shadowed solitude near a riverside, eyes downcast. Three cups spill onto the grass before him, while two remain upright on a tree stump beside him, steam curling upward. Behind him, a red-trimmed tent rests quietly across a bridge, waiting.",
   "general_meaning": "This card acknowledges grief and disappointment but gently reminds you not all is lost. Behind the sorrow lies a path toward healing—if you're willing to look up and walk it.",
@@ -420,7 +435,10 @@
   "name": "Six of Cups",
   "number": 6,
   "image_url": "https://highlig.github.io/ricky-wahite-tarot/images/27-six-of-cups.png",
-  "keywords": ["Nostalgia", "Innocence", "Reunion", "Tenderness", "Memory"],
+  "keywords": {
+    "upright": ["Innocence", "Reunion", "Nostalgia", "Comfort", "Warmth"],
+    "reversed": ["Stagnation", "Escapism", "Naivety", "Clinging", "Disconnection"]
+  },
   "description": "Inspired by the closing scene of *Kung Fu Hustle*, two children—representing the boy and lollipop girl—exchange a golden cup filled with flowers and lollipops. Behind them, an older man walks away into mist, a symbolic farewell to the past self. The card evokes simplicity, sweetness, and the sacred return to joy once known.",
   "visual_description": "Two children in traditional clothing stand amid ornate golden cups brimming with flowers. One boy offers a central cup to a girl, smiling warmly. Lollipops rise among the blooms. Behind them, a man walks into swirling clouds and a distant cityscape, fading into memory.",
   "general_meaning": "A card of sweet memory, kindness, and moments that soften the soul. It invites you to reconnect with something or someone that once brought you peace, and to carry that feeling forward.",
@@ -433,7 +451,10 @@
   "name": "Seven of Cups",
   "number": 7,
   "image_url": "https://highlig.github.io/ricky-wahite-tarot/images/28-seven-of-cups.png",
-  "keywords": ["Illusion", "Temptation", "Fantasy", "Overwhelm", "Choices"],
+  "keywords": {
+    "upright": ["Mirage", "Temptation", "Fantasy", "Overwhelm", "Projection"],
+    "reversed": ["Clarity", "Discernment", "Paralysis", "Avoidance", "Disillusionment"]
+  },
   "description": "‘Genie Joe Dream’ takes form as Morpheus from *The Sandman*, styled like Joe Jackson on the *I’m the Man* cover—offering up a trench coat lined with fantastical options. A shadowy figure stands before him, caught between awe and paralysis. The card asks: when every dream is available, which one do you choose—and at what cost?",
   "visual_description": "Morpheus opens a smoky trench coat filled with seven cups, each holding an archetypal lure: a glowing orb, a serpent, a red dragon, a castle, riches, a veiled ghost, and a golden-haired bust. Clouds swirl around them, and a shadowy figure in the foreground reaches out in indecision.",
   "general_meaning": "Too many options can cloud the path. Fantasy is seductive, but not all choices are real or wise. Discernment is key.",
@@ -446,7 +467,10 @@
   "name": "Eight of Cups",
   "number": 8,
   "image_url": "https://highlig.github.io/ricky-wahite-tarot/images/29-eight-of-cups.png",
-  "keywords": ["Departure", "Letting Go", "Seeking", "Emotional Maturity", "Purpose"],
+  "keywords": {
+    "upright": ["Departure", "Transition", "Release", "Quest", "Longing"],
+    "reversed": ["Avoidance", "Fear", "Stagnation", "Attachment", "Delay"]
+  },
   "description": "Inspired by Mulan’s quiet, resolute departure, this card captures the moment one walks away from comfort toward an unknown but necessary path. Eight golden cups remain behind—perfectly stacked, but incomplete. The figure rides under a full moon, trading stability for self-honor. Sometimes leaving is the most powerful choice.",
   "visual_description": "A cloaked rider—Mulan—travels on horseback under a radiant full moon, moving toward distant mountains. Eight cups are arranged in the foreground, one conspicuously missing from the perfect formation. The road reflects moonlight, winding through swirling mist and bamboo groves.",
   "general_meaning": "Emotional clarity leads to departure. You're no longer fulfilled by the familiar and are drawn toward something deeper.",
@@ -459,7 +483,10 @@
   "name": "Nine of Cups",
   "number": 9,
   "image_url": "https://highlig.github.io/ricky-wahite-tarot/images/30-nine-of-cups.png",
-  "keywords": ["Satisfaction", "Gratitude", "Emotional Fulfillment", "Contentment", "Pleasure"],
+  "keywords": {
+    "upright": ["Satisfaction", "Gratitude", "Fulfillment", "Abundance", "Pleasure"],
+    "reversed": ["Overindulgence", "Complacency", "Emptiness", "Superficiality", "Disconnection"]
+  },
   "description": "Iroh brews tea with peaceful joy in the Jade Dragon teahouse, surrounded by nine ornate cups arranged above him like blessings earned. His smile is subtle, satisfied—not boastful. This card reminds us that fulfillment is found not only in big victories, but in daily rituals, chosen contentment, and authentic joy.",
   "visual_description": "Uncle Iroh smiles warmly while preparing tea, steam curling from the pot in organic swirls. Nine decorated teacups sit on a shelf above him, forming a gentle arc. Behind him is a mandala-style wood carving evoking harmony and internal balance.",
   "general_meaning": "Wishes fulfilled. You’ve cultivated a life of emotional richness—now take time to enjoy it.",
@@ -472,7 +499,10 @@
   "name": "Ten of Cups",
   "number": 10,
   "image_url": "https://highlig.github.io/ricky-wahite-tarot/images/31-ten-of-cups.png",
-  "keywords": ["Harmony", "Fulfillment", "Wholeness", "Emotional Security", "Shared Joy"],
+  "keywords": {
+    "upright": ["Fulfillment", "Union", "Belonging", "Completeness", "Harmony"],
+    "reversed": ["Discord", "Distance", "Tension", "Instability", "Fracture"]
+  },
   "description": "The Ricky-Wahité family gathers under a glowing aurora rainbow in a peaceful polar landscape. Four adults stand together near a warm fire, while two children play joyfully in the snow. Behind them sit Pebble, Sid, and a kitten—two of them towering spirit-cats with antlers. The Satomobile, JTT, rests near an igloo. Above it all, ten cups arc across the sky like a constellation of joy and belonging.",
   "visual_description": "Four adults stand at the edge of a snowy bluff, watching a rainbow aurora beneath a starry sky. Two children snowball fight near an igloo in the background. Pebble, Sid, and a kitten sit nearby—two are giant antlered cats. Ten golden cups arc across the sky. A Subaru-style satomobile rests in the snow. Mountains and pines surround the valley.",
   "general_meaning": "Emotional completion and collective joy. You've built something real—with love at the center.",
@@ -486,7 +516,10 @@
   "number": 11,
   "title": "Let Me In, Let’s Begin",
   "image_url": "https://highlig.github.io/ricky-wahite-tarot/images/32-page-of-cups.png",
-  "keywords": ["Curiosity", "Creative Spark", "Playfulness", "Emotional Openness", "Invitation"],
+  "keywords": {
+    "upright": ["Curiosity", "Discovery", "Imagination", "Wonder", "Exploration"],
+    "reversed": ["Insecurity", "Repression", "Naivety", "Immaturity", "Hesitation"]
+  },
   "description": "Mica, dressed in flowing indigo, balances mid-step with a cup extended before her—waves crash and swirl behind her, while Matt plays a keyboard in the mist. A fish peers from her chalice. A winged mirror pulses with checkered depth, suggesting portals of perception and imagination. This is the dream-pop dreamer—curious, fluid, and emotionally alive.",
   "visual_description": "Mica stands poised in billowing pants, holding a golden cup with a fish emerging. Behind her, Matt plays keys with quiet focus. A winged mirror with a spiraling black-and-white pattern floats above crashing waves. Gold filigree frames the clouds and sea.",
   "general_meaning": "A messenger of emotional insight and creative play. Stay open to wonder and intuition.",
@@ -500,7 +533,10 @@
   "number": 12,
   "title": "Keep A Place For Me",
   "image_url": "https://highlig.github.io/ricky-wahite-tarot/images/33-knight-of-cups.png",
-  "keywords": ["Romanticism", "Intuition", "Journey", "Invitation", "Artistry"],
+  "keywords": {
+    "upright": ["Romance", "Pursuit", "Charm", "Inspiration", "Expression"],
+    "reversed": ["Moodiness", "Idealism", "Distraction", "Fantasy", "Facade"]
+  },
   "description": "Frank Ocean rides a white horse through Castle Valley, his armor glinting under the desert sun. A swirling blue cloak embroidered with koi fish wraps around him, and he holds a golden chalice near his chest. The Colorado River winds through the red rock landscape beneath the distant La Sal Mountains. His gaze is direct but distant, the soft glow of a halo behind his head suggesting inner longing and poetic grace. He rides not for conquest, but connection.",
   "visual_description": "Frank Ocean, clad in silver armor with a deep teal cape patterned in red koi, rides a white horse through Castle Valley. The Colorado River winds behind him, with the La Sal Mountains on the horizon. He holds a golden cup aloft, haloed in soft light. His expression is contemplative, romantic.",
   "general_meaning": "A soulful quest fueled by emotion, creativity, or connection. You are moved by a dream—follow it with care and sincerity.",
@@ -514,7 +550,10 @@
   "number": 13,
   "title": "Back & Forth It Go",
   "image_url": "https://highlig.github.io/ricky-wahite-tarot/images/34-queen-of-cups.png",
-  "keywords": ["Compassion", "Intuition", "Emotional Depth", "Healing", "Sacred Femininity"],
+  "keywords": {
+    "upright": ["Compassion", "Receptivity", "Creativity", "Presence", "Inner Knowing"],
+    "reversed": ["Overwhelm", "Hypersensitivity", "Suppression", "Codependence", "Disconnection"]
+  },
   "description": "SZA sits on a throne carved from pale stone, adorned in Northern Water Tribe ceremonial robes trimmed with golden embroidery and fur. Her long, flowing hair curls around her shoulders like ink in water. A glowing chalice rests in her hands, its shimmering contents pulsing with emotional magic. Though serene, her gaze holds storms. The sea laps at her feet, and stylized waves and fish are etched into the throne—symbols of intuitive power and depth of feeling.",
   "visual_description": "SZA, depicted as the Queen of Cups, wears blue-and-gold Water Tribe regalia with fur trim, seated on an ornate throne carved with a fish motif. Her expression is calm and mysterious. She holds a radiant chalice in her lap, and her long hair flows into the swirling water that surrounds her feet.",
   "general_meaning": "Embody the depths of your inner world with grace. This queen governs the realm of emotion, offering insight, care, and psychic clarity.",
@@ -528,7 +567,10 @@
   "number": 14,
   "title": "Don’t Be No Drag",
   "image_url": "https://highlig.github.io/ricky-wahite-tarot/images/35-king-of-cups.png",
-  "keywords": ["Wisdom", "Emotional Balance", "Leadership", "Compassion", "Depth"],
+  "keywords": {
+    "upright": ["Emotional Mastery", "Compassion", "Wisdom", "Attunement", "Maturity"],
+    "reversed": ["Suppression", "Manipulation", "Avoidance", "Detachment", "Volatility"]
+  },
   "description": "Bob Marley sits in meditation atop a sea turtle, dressed in flowing garments patterned like ocean currents. A golden chalice steams gently in one hand, while the other grips a simple scepter. Behind him, waves rise and swirl, a fish jumps, and a ship sails into a glowing sunset. His expression is steady, present—both detached and deeply feeling. A crown rests calmly on his head, signaling a ruler who leads with empathy and clarity.",
   "visual_description": "Bob Marley is seated cross-legged on a sea turtle, robed in flowing oceanic blues with swirling wave motifs. He holds a chalice in one hand and a golden scepter in the other. His expression is calm and wise. A ship sails on the left and a fish leaps on the right under a vibrant red-and-orange sky.",
   "general_meaning": "Mastery of emotion and leadership rooted in heart. The King of Cups navigates storms with stillness and love.",
