@@ -644,18 +644,21 @@
   "reversed": "Avoiding rest. Your energy is scattered and recovery is calling. Make space for peace."
 },
   "five_of_swords": {
-    "name": "Five Of Swords",
-    "number": 40,
-    "image_url": "https://highlig.github.io/ricky-wahite-tarot/images/40-five-of-swords.png",
-    "keywords": [],
-    "description": "",
-    "visual_description": "",
-    "general_meaning": "",
-    "love": "",
-    "spiritual": "",
-    "career": "",
-    "reversed": ""
+  "name": "Five of Swords",
+  "number": 5,
+  "image_url": "https://highlig.github.io/ricky-wahite-tarot/images/40-five-of-swords.png",
+  "keywords": {
+    "upright": ["Conflict", "Defeat", "Self-Interest", "Hollow Victory", "Tension"],
+    "reversed": ["Resolution", "Reconciliation", "Regret", "Lingering Resentment", "Humility"]
   },
+  "description": "Larry David struts away with three swords in hand, a smug grin curling across his face. Behind him, two figures stand in disbelief, gesturing toward each other in mutual frustration. They’ve clearly just lost an argument or battle—one they didn’t know they were in. The scene from Curb Your Enthusiasm’s 'The Weatherman' plays out symbolically here, as Larry wins by technicality, not truth. The card captures the essence of winning at the cost of connection.",
+  "visual_description": "Larry David walks toward the foreground carrying three swords, grinning with unmistakable smugness. Two swords lie discarded behind him on the grass. In the background stand the defeated parties: the local weatherman and Dr. Funkhauser. The weatherman gestures in protest, having just been exposed for manipulating the forecast to clear the golf course. Dr. Funkhauser clutches his sleeves, which Larry has declared irreparably stretched from his hang-drying technique. The two stand near a Spanish-style clubhouse, caught mid-argument and reeling from Larry’s petty triumph. Swirling clouds overhead and etched lines in the grass emphasize tension and fallout. Larry’s stride is casual, victorious—and completely unbothered by the social carnage he leaves in his wake.",
+  "general_meaning": "This card signals conflict where winning may not feel like success. It asks you to examine if your victory is worth what it costs.",
+  "love": "Tension and miscommunication may arise. Be wary of petty power struggles or passive-aggressive wins.",
+  "spiritual": "Self-righteousness may be a barrier to growth. Let go of needing to be right to find deeper peace.",
+  "career": "Politics at work could lead to hollow victories. Focus on collaborative progress over ego-driven wins.",
+  "reversed": "There may be a chance to reconcile or repair. Regret can lead to growth if you’re willing to reflect and release control."
+},
   "six_of_swords": {
     "name": "Six Of Swords",
     "number": 41,
