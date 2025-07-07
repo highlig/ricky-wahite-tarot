@@ -580,57 +580,71 @@
   "reversed": "Emotional manipulation, mood swings, or avoidance. Beware of hiding behind calm instead of engaging with truth."
 },
   "ace_of_swords": {
-    "name": "Ace Of Swords",
-    "number": 36,
-    "image_url": "https://highlig.github.io/ricky-wahite-tarot/images/36-ace-of-swords.png",
-    "keywords": [],
-    "description": "",
-    "visual_description": "",
-    "general_meaning": "",
-    "love": "",
-    "spiritual": "",
-    "career": "",
-    "reversed": ""
+  "name": "Ace of Swords",
+  "number": 1,
+  "title": "—",
+  "image_url": "https://highlig.github.io/ricky-wahite-tarot/images/36-ace-of-swords.png",
+  "keywords": {
+    "upright": ["Breakthrough", "Mental Clarity", "New Ideas", "Truth", "Insight"],
+    "reversed": ["Confusion", "Miscommunication", "Mental Block", "Frustration", "False Assumptions"]
   },
+  "description": "A tuning fork-sword rises from a divine hand, vibrating with cosmic resonance. Crowned by an all-seeing eye, it splits the air and pierces the veil, representing insight made tangible. This is the flash of truth, the birth of an idea, and the sound of inspiration tuning the universe.",
+  "visual_description": "A spirit hand emerges from a swirling sky, holding a sword-like tuning fork. Above it, an eye glows beneath a laurel crown, with the blade of the sword piercing upward. Behind the figure, concentric waves pulse outward, hinting at unseen vibrations. Below, a line of mountains grounds the vision in earthly form.",
+  "general_meaning": "A powerful realization or idea takes shape. The Ace of Swords cuts through noise to reveal truth. It is the sound of clarity, the flash of insight, the blade of awakening.",
+  "love": "New understanding in a relationship, or sharp clarity about what must change. Communicate honestly.",
+  "spiritual": "A moment of revelation may open your path. Listen closely for the vibration beneath surface noise.",
+  "career": "Innovative ideas or bold decisions may strike. Trust your clarity and act with precision.",
+  "reversed": "Mental fog, poor communication, or false assumptions cloud your vision. Step back and clarify your intent."
+},
   "two_of_swords": {
-    "name": "Two Of Swords",
-    "number": 37,
-    "image_url": "https://highlig.github.io/ricky-wahite-tarot/images/37-two-of-swords.png",
-    "keywords": [],
-    "description": "",
-    "visual_description": "",
-    "general_meaning": "",
-    "love": "",
-    "spiritual": "",
-    "career": "",
-    "reversed": ""
+  "name": "Two of Swords",
+  "number": 2,
+  "image_url": "https://highlig.github.io/ricky-wahite-tarot/images/37-two-of-swords.png",
+  "keywords": {
+    "upright": ["Indecision", "Stalemate", "Difficult Choices", "Blocked Emotions", "Balance"],
+    "reversed": ["Confusion", "Emotional Turmoil", "Avoidance", "Overwhelm", "Impasse"]
   },
+  "description": "Ye Wenjie sits blindfolded at Red Coast Base, two swords crossed over her chest. The massive antennas rise behind her as the stars shimmer overhead. She holds still, waiting—not because she is unsure, but because she knows how irreversible her next move will be. This is a card of withheld action, internal tension, and the poised breath before decision.",
+  "visual_description": "Ye Wenjie is seated in military uniform, blindfolded, with two crossed swords held close to her body. Her face is calm, composed, unreadable. Behind her, radio towers loom beneath a moonlit sky. Swirling fog surrounds the scene. Her hands rest on a circuit board etched with pathways—symbolic of choices yet unmade.",
+  "general_meaning": "A choice must be made, but the path is unclear—or deliberately paused. Weigh reason and emotion before moving forward.",
+  "love": "Emotional distance or refusal to confront feelings. Find clarity and communicate with honesty.",
+  "spiritual": "A time to sit with dualities. Embrace stillness as part of discernment.",
+  "career": "Avoidance may be creating stagnation. Face the facts and make a choice.",
+  "reversed": "Overwhelm, procrastination, or emotional confusion. You may be denying what you already know deep down."
+},
   "three_of_swords": {
-    "name": "Three Of Swords",
-    "number": 38,
-    "image_url": "https://highlig.github.io/ricky-wahite-tarot/images/38-three-of-swords.png",
-    "keywords": [],
-    "description": "",
-    "visual_description": "",
-    "general_meaning": "",
-    "love": "",
-    "spiritual": "",
-    "career": "",
-    "reversed": ""
+  "name": "Three of Swords",
+  "number": 3,
+  "image_url": "https://highlig.github.io/ricky-wahite-tarot/images/38-three-of-swords.png",
+  "keywords": {
+    "upright": ["Heartbreak", "Sorrow", "Emotional Pain", "Separation", "Grief"],
+    "reversed": ["Recovery", "Forgiveness", "Releasing Pain", "Resistance", "Emotional Repression"]
   },
+  "description": "Stephen Dedalus stands alone on Sandymount Strand, cane in hand, as a heart is pierced by three swords in the stormy sky before him. Bones, feathers, and a cracked watch lie scattered across the wet shoreline—symbols of time, fragility, and disillusionment. This card confronts the quiet ache of intellectual clarity in the face of emotional suffering.",
+  "visual_description": "A large red heart floats in the air, pierced by three swords. Behind it, gray clouds swirl. Stephen Dedalus stands to the right, contemplative, in a dark suit and cap. At his feet are a broken clock, scattered pages, and bones on the beach. A tower looms in the background. The scene is heavy, windswept, and filled with existential sorrow.",
+  "general_meaning": "Painful truths, heartbreak, or emotional wounds that cannot be ignored. The mind and heart clash—revealing what hurts.",
+  "love": "Breakups, betrayal, or sorrow. Honest reflection brings healing over time.",
+  "spiritual": "Grief may open space for deeper truth. Let pain be part of your unfolding.",
+  "career": "Disappointment or emotional fallout. Clear the air and move forward with integrity.",
+  "reversed": "Healing begins. You’re learning to let go, even if the pain still echoes."
+},
   "four_of_swords": {
-    "name": "Four Of Swords",
-    "number": 39,
-    "image_url": "https://highlig.github.io/ricky-wahite-tarot/images/39-four-of-swords.png",
-    "keywords": [],
-    "description": "",
-    "visual_description": "",
-    "general_meaning": "",
-    "love": "",
-    "spiritual": "",
-    "career": "",
-    "reversed": ""
+  "name": "Four of Swords",
+  "number": 4,
+  "title": "The Break You Needed",
+  "image_url": "https://highlig.github.io/ricky-wahite-tarot/images/39-four-of-swords.png",
+  "keywords": {
+    "upright": ["Rest", "Recovery", "Contemplation", "Stillness", "Healing"],
+    "reversed": ["Burnout", "Restlessness", "Avoidance", "Delayed Recovery", "Mental Overload"]
   },
+  "description": "Jia Hongsheng lies on the grass beneath a starry sky, walkman humming in his ears. Above him, three bottles etched with sword symbols rest like a shrine. A stained-glass panel features John Lennon and his parents on a tandem bike—a dreamlike presence of memory and watchfulness. This is a moment of necessary pause, not retreat. In solitude, the mind regathers its strength.",
+  "visual_description": "Jia lies in profile on his back in a grassy field, eyes closed, wearing headphones. A Sony walkman sits beside him. Above, three upright bottles are etched with sword symbols. A framed window shows a portrait of John Lennon and an image of two parents on a tandem bike. Stars swirl overhead in a calm night sky.",
+  "general_meaning": "Rest, recovery, and quiet time to regroup. Space is needed before re-engaging with the world.",
+  "love": "Take time to reflect. Emotional clarity comes from inner rest, not outward noise.",
+  "spiritual": "A moment for introspection and rebalancing. Connect with stillness and let guidance come gently.",
+  "career": "Step back before burnout sets in. Healing is productive, even if it looks like inaction.",
+  "reversed": "Avoiding rest. Your energy is scattered and recovery is calling. Make space for peace."
+},
   "five_of_swords": {
     "name": "Five Of Swords",
     "number": 40,
