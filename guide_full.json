@@ -582,7 +582,6 @@
   "ace_of_swords": {
   "name": "Ace of Swords",
   "number": 1,
-  "title": "—",
   "image_url": "https://highlig.github.io/ricky-wahite-tarot/images/36-ace-of-swords.png",
   "keywords": {
     "upright": ["Breakthrough", "Mental Clarity", "New Ideas", "Truth", "Insight"],
@@ -631,7 +630,6 @@
   "four_of_swords": {
   "name": "Four of Swords",
   "number": 4,
-  "title": "The Break You Needed",
   "image_url": "https://highlig.github.io/ricky-wahite-tarot/images/39-four-of-swords.png",
   "keywords": {
     "upright": ["Rest", "Recovery", "Contemplation", "Stillness", "Healing"],
